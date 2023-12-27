@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../other-navigators"
+		},
+		{
+			"path": "../user-input"
+		}
+	],
+	"settings": {}
+}
